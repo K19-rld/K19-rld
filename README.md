@@ -2,7 +2,7 @@
 
 <h2 align="left">About me 🔥🔥🔥</h2>
 
-![Duck 🦆 number 1](https://github.com/user-attachments/assets/bfeb4725-62ea-4b0a-a100-cb98a58ba0a1)
+![Duck 🦆 number 1](https://github.com/user-attachments/assets/8a9a5035-d6ae-4dd8-8509-42dee786c68f)
 
 *"School is easy like riding a bike and the bike is on fire and the ground is on fire and everything is on fire because you're in hell"*
 

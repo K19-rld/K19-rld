@@ -1,18 +1,20 @@
 <h1 align="center">Hello 👋, I'm K19</h1>
 
-<h2 align="left">About me 🔥🔥</h2>
+<h3 align="left">About me 🔥🔥</h3>
 
 ![Duck 🦆 number 1](https://github.com/user-attachments/assets/8a9a5035-d6ae-4dd8-8509-42dee786c68f)
 
-*"School is easy like riding a bike and the bike is on fire and the ground is on fire and everything is on fire because you're in hell"*
-
 - Programming rookie since 2024
 - Multilingual (th en >> currently learning jp kr)
-- Love books, bed and music
+- Love books, bed, art and music
 - Student of KOSEN KMITL
 - Computer Engineer major
 - Currently learning: python, c++, html and css
 - Contact me **67991001@kmitl.ac.th**
+
+<h3 align="left">Quote for fun</h3>
+
+*"School is easy like riding a bike and the bike is on fire and the ground is on fire and everything is on fire because you're in hell"*
 
 ```
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣼⣿⡄⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
